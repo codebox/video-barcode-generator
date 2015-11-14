@@ -1,9 +1,0 @@
-The script requires a single command-line argument, which should be the location of the video file for which the barcode is to be generated, for example:
-
-barcode.sh starwars.avi
-
-The script extracts still frames from the video at one-second intervals, and saves them as JPEG image files (to change the interval between stills, and therefore the length of the barcode, adjust the STEP variable). Each image is then squashed to be only 1 pixel wide, and 400 pixels high, and these squashed images are stitched together horizontally to form a barcode. 
-
-The script should work on Linux and Mac OSX, and has dependencies on
-ffmpeg: http://www.ffmpeg.org/
-ImageMagick: http://www.imagemagick.org/
