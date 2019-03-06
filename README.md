@@ -4,15 +4,15 @@ This shell script extracts still frames from video files, and uses them to gener
 
 ### Star Wars
 
-[![Star Wars Video Barcode](http://codebox.org.uk/graphics/barcodes/starwars_small.jpg)](/graphics/barcodes/star-wars-video-barcode.jpg "Star Wars Video Barcode")
+[![Star Wars Video Barcode](http://codebox.org.uk/assets/images/video-barcodes-script/starwars_small.jpg)](/assets/images/video-barcodes-script/star-wars-video-barcode.jpg "Star Wars Video Barcode")
 
 ### The Empire Strikes Back
 
-[![Empire Strikes Back Video Barcode](http://codebox.org.uk/graphics/barcodes/empire_small.jpg)](/graphics/barcodes/empire-strikes-back-video-barcode.jpg "Empire Strikes Back Video Barcode")
+[![Empire Strikes Back Video Barcode](http://codebox.org.uk/assets/images/video-barcodes-script/empire_small.jpg)](/assets/images/video-barcodes-script/empire-strikes-back-video-barcode.jpg "Empire Strikes Back Video Barcode")
 
 ### Return of the Jedi
 
-[![Return of the Jedi Video Barcode](http://codebox.org.uk/graphics/barcodes/jedi_small.jpg)](/graphics/barcodes/return-of-the-jedi-video-barcode.jpg "Return of the Jedi Video Barcode")</section>
+[![Return of the Jedi Video Barcode](http://codebox.org.uk/assets/images/video-barcodes-script/jedi_small.jpg)](/assets/images/video-barcodes-script/return-of-the-jedi-video-barcode.jpg "Return of the Jedi Video Barcode")</section>
 
 The script should work on Linux and Mac OSX, and has dependencies on [ffmpeg](http://www.ffmpeg.org) and [ImageMagick](http://www.imagemagick.org). It is based on an idea by [Benoit Romito](http://bromito.perso.info.unicaen.fr/wiki/index.php) but uses a different technique to create the images, explained [below](#explained). 
 
